@@ -1,0 +1,23 @@
+.friend{
+    border: 1px solid lightgray;
+    margin: 30px auto;
+    width: 315px;
+    padding: 5px 10px;
+    background-color: aliceblue;
+    box-shadow: 8px 8px 25px rgba(119, 136, 153, 0.393);
+}
+
+button{
+    width: 95px;
+    padding: 8px 15px;
+    border: none;
+    background-color: #153451;
+    color: aliceblue;
+    margin-bottom: 15px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+button:hover{
+    background-color: rgb(67, 2, 2);
+}

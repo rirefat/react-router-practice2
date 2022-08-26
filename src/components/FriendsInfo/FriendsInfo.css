@@ -1,0 +1,14 @@
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.info-container{
+    text-align: left;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+img{
+    width: 12%;
+    margin-bottom: 20px;
+}
